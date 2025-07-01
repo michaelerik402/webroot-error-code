@@ -3,7 +3,7 @@ How to Fix Webroot Error Code?
 
 Webroot is a reliable and lightweight cybersecurity solution designed to provide real-time protection against a wide range of digital threats. However, like all software, it is not immune to occasional technical issues. One common issue users may encounter during installation, activation, or operation is an error code.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
